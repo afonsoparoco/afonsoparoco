@@ -1,4 +1,6 @@
-### Afonso Paroco
+<h3 align="left">Afonso Pároco</h3>
+
+##
 
 <div align="center">
   <a href="https://github.com/afonsoparoco">
