@@ -11,7 +11,7 @@
 ### Languages and Technologies:
   
 <div style="display: inline_block">
-  <<img align="center" alt="Icon-lua" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
+  <img align="center" alt="Icon-lua" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
   <img align="center" alt="Icon-C" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Icon-CSharp" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Icon-CPlusPlus" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
